@@ -10,7 +10,7 @@ int main(){
     int SR=0,SC=0,ER=n-1,EC=m-1;
     int a[n][m]={0};
 
-    for(j=0;j<n;j++){
+    for(j=0;j<m;j++){
         for(i=0;i<n;i++){
             a[i][j] = k;
             k++;
