@@ -10,7 +10,7 @@
 2.[Object Oriented Programming with C++ by E Balagurusamy 8th Edition](https://www.amazon.in/Object-Oriented-Programming-C-8th-Balagurusamy/dp/9389949181/ref=pd_lpo_1?pd_rd_i=9389949181&psc=1)<br/>
 
 **Projects**<br/>
-1.**Beginner Projects**
+1.**Beginner Projects**<br/>
 a)[Supermarket Billing System Project In C++](https://www.youtube.com/watch?v=xFwwN4lGG0o)<br/>
 
 My Personal document: [Concepts and Quick points of the C++ Language](https://docs.google.com/document/d/12COrV2-ORMOpB0KwkIpteSkqMmMvMqR-l6Gmi3rR2_Y/edit?usp=sharing)<br/>
