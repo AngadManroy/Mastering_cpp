@@ -2,7 +2,15 @@
 using namespace std;
 
 int main(){
-    
+    //Differences b/w character and integer arrays:
+    /*cout<<(int)a; wille give address of a[0]
+    cout<<(char)a; will print out entire contents of 1d char array because of default operator
+    overloading of "<<" in char arrays.
+    2.always end 1d char arrays with "/0" otherwise end might not be detected and garbage values
+    come into play. Ex:
+    char a[] = {'h','e','l','l','o'}; might have garbage wvalue and this has SIZE 5
+    char b[] = "hello"; will have size 6 including '/0' and will not print garbage values.
+    */
     //Ways to initialize a character array and update a particular element
     char a[][10] = {{'a','n',' ','a','p','p','l','e'},{'d','e','f'}};
     char b[][10] = { "a banana","yo say ho"};
