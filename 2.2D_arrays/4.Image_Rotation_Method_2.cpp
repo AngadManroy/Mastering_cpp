@@ -37,7 +37,7 @@ void rotate(int a[][1000],int n){
 
 void rotate_stl(int a[][1000],int n){
     int i=0;
-    //Reverse row using transpose
+    //Reverse row using STL
     for(;i<n;i++){
     reverse(a[i],a[i]+n);
     }
